@@ -1,0 +1,131 @@
+/* Reset and custom styles for VSCode-like layout */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FFFFFF;
+    color: #333; /* Adjusted text color for better readability */
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    height: 100vh;
+    margin: 0;
+    overflow: auto;
+}
+
+.container {
+    display: flex;
+    flex: 1;
+    overflow: hidden;
+    background-color: #FFFFFF;
+}
+
+.column {
+    flex: 1;
+    padding: 10px;
+    overflow: auto;
+}
+
+.column1 {
+    background-color: #90d2e2;
+    width: 50%; /* Half the width of the container */
+    max-width: 500px; /* Limit maximum width */
+}
+
+.column2 {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 10px;
+}
+
+.breadcrumbs {
+    background-color: #94bdd4;
+    color: #01060f;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.breadcrumbs a {
+    color: #000103;
+    text-decoration: none;
+}
+
+.breadcrumbs a:hover {
+    text-decoration: underline;
+}
+
+#resultFrame {
+    flex: 1;
+    border: none;
+    background-color: #96cfd6;
+    color: #333; /* Adjusted text color for better readability */
+    padding: 10px;
+    overflow: hidden; /* Prevent scrollbars within the iframe */
+    width: 100%; /* Occupy full width of parent container */
+    height: 100%; /* Occupy full height of parent container */
+}
+
+.history-container {
+    background-color: #edf7f8;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Added box shadow for depth */
+    overflow: hidden; /* Ensure the container doesn't expand beyond its boundaries */
+}
+
+.history-table-wrapper {
+    overflow-x: auto; /* Enable horizontal scrolling if needed */
+    max-height: 400px; /* Limit maximum height to enable vertical scrolling */
+}
+
+.history-table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed; /* Ensure consistent column width */
+}
+
+.history-table th,
+.history-table td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    white-space: nowrap; /* Prevent text wrapping */
+    overflow: hidden; /* Hide overflow content */
+    text-overflow: ellipsis; /* Show ellipsis (...) for overflow */
+}
+
+.history-table th {
+    background-color: #94bdd4;
+    color: #01060f;
+    font-weight: bold;
+    position: sticky;
+    top: 0; /* Fix header to the top */
+    z-index: 2; /* Ensure header is above table rows */
+}
+
+.history-table tr {
+    transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.history-table tr:nth-child(even) {
+    background-color: #f2f2f2; /* Alternate row background color for better differentiation */
+}
+
+.history-table tr:hover {
+    background-color: #e0e0e0; /* Hover color for better user interaction */
+    cursor: pointer;
+}
+
+.history-table td {
+    padding: 15px 10px;
+}
+
+.history-table tr:last-child td {
+    border-bottom: none;
+}

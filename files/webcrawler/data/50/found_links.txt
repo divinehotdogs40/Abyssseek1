@@ -1,0 +1,3 @@
+https://quotes.toscrape.com/tag/deep-thoughts/page/1/
+https://quotes.toscrape.com/tag/change/page/1/
+https://quotes.toscrape.com/author/Albert-Einstein

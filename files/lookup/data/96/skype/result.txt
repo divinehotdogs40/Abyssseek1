@@ -1,0 +1,13 @@
+{
+    "platformPresenceFacts": [
+        {
+            "id": 65656231,
+            "created": "2024-07-31T06:54:44.13108",
+            "platform": "skype",
+            "present": false,
+            "credentialType": "EMAIL",
+            "platformType": "SOCIAL"
+        }
+    ],
+    "errorMessage": null
+}

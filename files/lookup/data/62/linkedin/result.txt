@@ -1,0 +1,5 @@
+{
+    "success": false,
+    "message": "There is no LinkedIn profile for this email or the profile is private",
+    "data": null
+}

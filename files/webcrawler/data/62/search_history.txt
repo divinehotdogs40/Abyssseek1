@@ -1,0 +1,18 @@
+Time: May 29, 2024 - 08:40 AM
+Link: https://www.techtarget.com/
+Keyword: the
+ Limit: 10
+Search Mode: Exact Keyword Match
+
+Time: May 24, 2024 - 09:06 AM
+Link: https://www.techtarget.com/
+Keyword: the
+ Limit: 10
+Search Mode: Partial Keyword Match
+
+Time: May 16, 2024 - 01:13 PM
+Link: https://www.techtarget.com/
+Keyword: the
+ Limit: 10
+Search Mode: Partial Keyword Match
+

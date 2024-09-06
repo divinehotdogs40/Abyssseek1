@@ -1,0 +1,114 @@
+Time: May 14, 2024 - 08:38 AM
+Link: https://www.techtarget.com/
+Keyword: the
+ Limit: 10
+Search Mode: Partial Keyword Match
+
+Time: May 13, 2024 - 04:20 PM
+Link: https://www.techtarget.com/
+Keyword: the
+ Limit: 10
+Search Mode: Partial Keyword Match
+
+Time: May 13, 2024 - 04:08 PM
+Link: https://www.techtarget.com/
+Keyword: the
+ Limit: 10
+Search Mode: Partial Keyword Match
+
+Time: May 13, 2024 - 04:07 PM
+Link: https://www.techtarget.com/
+Keyword: artificial
+ Limit: 10
+Search Mode: Partial Keyword Match
+
+Time: May 13, 2024 - 04:07 PM
+Link: https://www.techtarget.com/
+Keyword: artificial
+ Limit: 5
+Search Mode: Partial Keyword Match
+
+Time: May 13, 2024 - 04:06 PM
+Link: https://www.techtarget.com/
+Keyword: artificial intellegence
+ Limit: 5
+Search Mode: Partial Keyword Match
+
+Time: May 13, 2024 - 04:02 PM
+Link: books.toscrape.com
+Keyword: book
+ Limit: 5
+Search Mode: Partial Keyword Match
+
+Time: May 13, 2024 - 04:02 PM
+Link: books.toscrape.com
+Keyword: land
+ Limit: 5
+Search Mode: Partial Keyword Match
+
+Time: May 13, 2024 - 04:01 PM
+Link: books.toscrape.com
+Keyword: land
+ Limit: 5
+Search Mode: Partial Keyword Match
+
+Time: May 13, 2024 - 03:57 PM
+Link: books.toscrape.com
+Keyword: books
+ Limit: 5
+Search Mode: Partial Keyword Match
+
+Time: May 13, 2024 - 03:53 PM
+Link: books.toscrape.com
+Keyword: hello
+ Limit: 5
+Search Mode: Partial Keyword Match
+
+Time: May 13, 2024 - 03:49 PM
+Link: books.toscrape.com
+Keyword: hello
+ Limit: 5
+Search Mode: Partial Keyword Match
+
+Time: May 13, 2024 - 11:02 AM
+Link: quotes.toscrape.com
+Keyword: hello
+ Limit: 10
+Search Mode: Partial Keyword Match
+
+Time: May 13, 2024 - 09:51 AM
+Link: quotes.toscrape.com
+Keyword: hello
+ Limit: 10
+Search Mode: Partial Keyword Match
+
+Time: May 13, 2024 - 09:48 AM
+Link: https://www.facebook.com/
+Keyword: hello
+ Limit: 3
+Search Mode: Partial Keyword Match
+
+Time: May 13, 2024 - 09:48 AM
+Link: https://www.facebook.com/
+Keyword: james
+ Limit: 3
+Search Mode: Partial Keyword Match
+
+Time: May 13, 2024 - 09:04 AM
+Link: https://www.facebook.com/
+Keyword: james
+ Limit: 3
+Search Mode: Partial Keyword Match
+
+Time: May 13, 2024 - 09:03 AM
+Link: https://www.facebook.com/
+Keyword: james
+ Limit: 3
+Search Mode: Partial Keyword Match
+
+Time: May 13, 2024 - 08:49 AM
+Link: books.toscrape.com
+Keyword: the
+ Limit: 3
+Search Mode: Exact Keyword Match
+

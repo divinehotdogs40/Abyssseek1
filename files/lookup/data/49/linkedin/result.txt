@@ -1,0 +1,93 @@
+{
+    "success": true,
+    "message": "",
+    "data": {
+        "displayName": "Rodelio Linco",
+        "firstName": "Rodelio",
+        "lastName": "Linco",
+        "username": "rodelio-linco-b4801335",
+        "headline": "refrigeration and airconditioning technician at roosevelt college system",
+        "about": "",
+        "phoneNumbers": [],
+        "companyName": "roosevelt college system",
+        "location": "Calabarzon, Philippines",
+        "photoUrl": "",
+        "linkedInUrl": "https://linkedin.com/in/rodelio-linco-b4801335",
+        "schools": [
+            {
+                "schoolName": "Marikina Polytechnic College, Marikina City",
+                "schoolLocation": "Philippines",
+                "schoolLogo": "https://media.licdn.com/dms/image/C4D0BAQGm9aL7nDM88A/company-logo_400_400/0/1630480239605/marikina_polytechnic_college_marikina_city_logo?e=1718089200&v=beta&t=3qt7d4X1Xm3HKR3VWDJ4DDw-kz1UPXFf8jDSTO1uZX4",
+                "linkedInUrl": "https://www.linkedin.com/company/marikina-polytechnic-college-marikina-city",
+                "degreeName": "Refrigeration and air conditioning mechanics (vocational)",
+                "startEndDate": {
+                    "start": {
+                        "year": 2005,
+                        "month": 0,
+                        "day": 0
+                    },
+                    "end": {
+                        "year": 2006,
+                        "month": 0,
+                        "day": 0
+                    }
+                },
+                "fieldOfStudy": "Both domestic and commercial refrigeration and air-conditioning"
+            }
+        ],
+        "positions": [
+            {
+                "title": "refrigeration and airconditioning technician",
+                "startEndDate": {
+                    "start": {
+                        "year": 2006,
+                        "month": 6,
+                        "day": 0
+                    },
+                    "end": {
+                        "year": 2006,
+                        "month": 6,
+                        "day": 0
+                    }
+                },
+                "companyName": "roosevelt college system",
+                "companyLocation": "",
+                "linkedInUrl": "https://www.linkedin.com/search/results/companies/?keywords=roosevelt college system",
+                "description": "Installation trubleshooting and repairs of refrigeration and airconditioning units system wide. Years of service made me an effective leader and a team player."
+            }
+        ],
+        "skills": [
+            {
+                "name": "PowerPoint"
+            },
+            {
+                "name": "Refrigeration"
+            },
+            {
+                "name": "Project Management"
+            },
+            {
+                "name": "Team Building"
+            },
+            {
+                "name": "Microsoft Office"
+            },
+            {
+                "name": "Sales"
+            },
+            {
+                "name": "Customer Service"
+            },
+            {
+                "name": "Project Planning"
+            },
+            {
+                "name": "Engineering"
+            },
+            {
+                "name": "Leadership"
+            }
+        ],
+        "isPublic": false
+    }
+}

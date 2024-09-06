@@ -1,0 +1,4 @@
+https://books.toscrape.com/catalogue/category/books/mystery_3/index.html
+https://books.toscrape.com/catalogue/category/books/travel_2/index.html
+https://books.toscrape.com/catalogue/category/books_1/index.html
+https://books.toscrape.com/index.html

@@ -1,0 +1,1 @@
+python3 C:/xampp/htdocs/abyssseek/files/webcrawler/webcrawler.py "books.toscrape.com" "test" 50 "20" "Partial"

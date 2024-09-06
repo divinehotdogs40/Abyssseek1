@@ -1,0 +1,13 @@
+emails:
+phones:
+linkedin:https://www.linkedin.com/in/jete-rita-rita-220b8223a
+twitter:None
+facebook:https://www.facebook.com/icsoArgentina
+youtube:None
+instagram:None
+github:None
+snapchat:None
+tiktok:None
+
+ 
+ Query Input: https://www.ebanderado.com/

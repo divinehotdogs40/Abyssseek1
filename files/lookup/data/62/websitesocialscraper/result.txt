@@ -1,0 +1,10 @@
+emails:'mayra@gmail.com.com', 'norsegod62@gmail.com.com', 'maurotacanho23@gmail.com.com', 'ofertakosovare@gmail.com.com', 'stargraphics.sales@gmail.com.com', 'iibkaabe@gmail.com.com', 'usman@gmail.com', 'olenahealth@gmail.com', 'gk@gmail.com', 'adasbebidasrh@gmail.com', 'intcc.caxias@gmail.com', 'sircomp@gmail.com', 'sawindhubatik@gmail.com', 'comissaofestassranazaregradil@gmail.com', 'curriculo@gmail.com', 'reservassescgramado@gmail.com', 'reservasgramado@sesc-rs.com.br', 'talentointegrasg@gmail.com', 'vagascdtribamar@gmail.com', 'bulleteercustom@gmail.com', 'log751@gmail.com', 'guineajubilee@gmail.com', 'rhserconsultoria@gmail.com', 'instituicaoes@gmail.com', 'madeiratrainingcamp@gmail.com', 'unicohit.filme@gmail.com'
+phones:'56553305346', '58443754388'
+linkedin:https://www.linkedin.com/in/olena-engelhard-274829168
+twitter:https://twitter.com/GgccGk
+facebook:None
+youtube:None
+instagram:https://www.instagram.com/com.bengmail
+github:None
+snapchat:None
+tiktok:https://www.tiktok.com/@gmail.com.com.c44
